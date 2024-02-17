@@ -12,8 +12,8 @@ To-do app built with Vanilla JavaScript and Tailwind.
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/JustinasLasinskas/personal-todo-app.git`
-2. Navigate to the project directory: `cd personal-todo-app`
+1. Clone the repository: `git clone https://github.com/JustinasLasinskas/personal-to-do-app.git`
+2. Navigate to the project directory: `cd personal-to-do-app`
 3. Open the index.html file in your web browser
 
 ## Usage
